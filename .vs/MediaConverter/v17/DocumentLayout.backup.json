@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|c:\\users\\ilj\\source\\repos\\mediaconverter\\mediaconverter\\successform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|solutionrelative:mediaconverter\\successform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|c:\\users\\ilj\\source\\repos\\mediaconverter\\mediaconverter\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|solutionrelative:mediaconverter\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|c:\\users\\ilj\\source\\repos\\mediaconverter\\mediaconverter\\successform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|solutionrelative:mediaconverter\\successform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|c:\\users\\ilj\\source\\repos\\mediaconverter\\mediaconverter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|solutionrelative:mediaconverter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|c:\\users\\ilj\\source\\repos\\mediaconverter\\mediaconverter\\converterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|solutionrelative:mediaconverter\\converterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|c:\\users\\ilj\\source\\repos\\mediaconverter\\mediaconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036275B-6B88-42C9-B517-9B5D41877720}|MediaConverter\\MediaConverter.csproj|solutionrelative:mediaconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuccessForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\SuccessForm.Designer.cs",
+              "RelativeDocumentMoniker": "MediaConverter\\SuccessForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\SuccessForm.Designer.cs",
+              "RelativeToolTip": "MediaConverter\\SuccessForm.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:00:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuccessForm.cs",
+              "DocumentMoniker": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\SuccessForm.cs",
+              "RelativeDocumentMoniker": "MediaConverter\\SuccessForm.cs",
+              "ToolTip": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\SuccessForm.cs",
+              "RelativeToolTip": "MediaConverter\\SuccessForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:58:41.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MediaConverter\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\MainForm.Designer.cs",
+              "RelativeToolTip": "MediaConverter\\MainForm.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwGAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:21:47.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\MainForm.cs",
+              "RelativeDocumentMoniker": "MediaConverter\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\MainForm.cs",
+              "RelativeToolTip": "MediaConverter\\MainForm.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:20:20.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConverterService.cs",
+              "DocumentMoniker": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\ConverterService.cs",
+              "RelativeDocumentMoniker": "MediaConverter\\ConverterService.cs",
+              "ToolTip": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\ConverterService.cs",
+              "RelativeToolTip": "MediaConverter\\ConverterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:17:58.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\Program.cs",
+              "RelativeDocumentMoniker": "MediaConverter\\Program.cs",
+              "ToolTip": "C:\\Users\\ILJ\\source\\repos\\MediaConverter\\MediaConverter\\Program.cs",
+              "RelativeToolTip": "MediaConverter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:22:39.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

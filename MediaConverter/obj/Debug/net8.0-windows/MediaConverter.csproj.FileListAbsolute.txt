@@ -1,0 +1,16 @@
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\bin\Debug\net8.0-windows\MediaConverter.exe
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\bin\Debug\net8.0-windows\MediaConverter.deps.json
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\bin\Debug\net8.0-windows\MediaConverter.runtimeconfig.json
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\bin\Debug\net8.0-windows\MediaConverter.dll
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\bin\Debug\net8.0-windows\MediaConverter.pdb
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\MediaConverter.MainForm.resources
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\MediaConverter.csproj.GenerateResource.cache
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\MediaConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\MediaConverter.AssemblyInfoInputs.cache
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\MediaConverter.AssemblyInfo.cs
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\MediaConverter.csproj.CoreCompileInputs.cache
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\MediaConverter.dll
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\refint\MediaConverter.dll
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\MediaConverter.pdb
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\MediaConverter.genruntimeconfig.cache
+C:\Users\ILJ\source\repos\MediaConverter\MediaConverter\obj\Debug\net8.0-windows\ref\MediaConverter.dll
