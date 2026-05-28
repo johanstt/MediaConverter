@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Published app binaries (rebuilt on demand)
+InstallBuild/app/
